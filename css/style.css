@@ -588,6 +588,22 @@ header .navbar-default .navbar-header {
     border-color: inherit;
 }
 
+.designer {
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    text-decoration: none;
+}
+
+.designer a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.designer a:hover {
+    color: #52a4e7
+}
 
 /* Max Wrapper Width - Laptop, Desktop etc.
 --------------------------------------------------------------------------------------------------------------- */
